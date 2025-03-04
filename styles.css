@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+ .btn-custom {
+            width: 100%;
+            background-color: gold;
+            color: black;
+            font-weight: bold;
+        }
